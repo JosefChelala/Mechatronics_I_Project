@@ -1,10 +1,10 @@
-site_name: MEGR 2157 – Design Portfolio
-site_description: Design portfolio documentation, built with the Analyze / Decide / Communicate framework
+site_name: Mechatronics I Project 
+site_description: Documentation of Mechatronics I Project
 
 theme:
   name: material
   palette:
-    primary: green
+    primary: blue
   features:
     - navigation.instant
     - navigation.tracking
